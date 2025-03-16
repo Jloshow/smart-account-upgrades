@@ -1,4 +1,4 @@
-name: test
+name: AiRBTC.sol
 
 on: workflow_dispatch
 
